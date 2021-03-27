@@ -1,8 +1,12 @@
+#!/user/bin/env node
+
+/* 
+  chmod +x index.js
+
+*/
+
 /*
-node index.js \
-    ---username grochavieira \
-    --room sala01 \
-    --hostUri localhost
+./index.js --username grochavieira --room sala01 --hostUri localhost
 */
 
 import Events from "events";
