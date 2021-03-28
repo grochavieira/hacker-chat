@@ -42,6 +42,13 @@ Projeto da Semana JSExpert #03 - Um chat no próprio terminal onde é possível 
 
 ## ⚙️ Funcionalidades
 
+- [x] Interface no terminal;
+- [x] Input para mensagens;
+- [x] Seções para visualizar mensagens, registro de atividades e usuários na sala;
+- [x] É possível definir seu nome de usuário, sala e conexão ao rodar o programa;
+- [x] Quando um usuário entra ou sai de uma sala todos os outros são notificados;
+- [x] Um usuário pode mandar mensagem para outros usuários da mesma sala.
+
 ---
 
 ## 🎨 Layout
@@ -108,10 +115,16 @@ $ cd client
 # Instale as dependências
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
+# Execute a aplicação em modo de desenvolvimento - primeiro usuário
 $ npm run user01
 
+# Execute a aplicação em modo de desenvolvimento - segundo usuário
+$ npm run user02
+
 # A aplicação será executada no próprio terminal
+
+# O comando para inserir manualmente o nome de usuário, senha e conexão
+# se encontra no package.json da pasta client
 
 ```
 
