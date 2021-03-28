@@ -46,6 +46,12 @@ Projeto da Semana JSExpert #03 - Um chat no próprio terminal onde é possível 
 
 ## 🎨 Layout
 
+### Exemplo do Chat
+
+<h1 align="center">
+    <img src="./.github/chat_example.png" />
+</h1>
+
 ---
 
 ## 🚀 Como executar o projeto
@@ -79,7 +85,7 @@ $ cd server
 # Instale as dependências com npm
 $ npm install
 
-# Roda o servidor em modo de desenvolvimento
+# Rode o servidor em modo de desenvolvimento
 $ npm run dev
 
 # O servidor inciará na porta:9898 - acesse http://localhost:9898
@@ -121,7 +127,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 > Veja o arquivo [package.json](https://github.com/grochavieira/hacker-chat/blob/master/client/package.json)
 
-### **Servidor** ([NodeJS](https://nodejs.org/en/))
+#### **Servidor** ([NodeJS](https://nodejs.org/en/))
+
+- **[Nodemon](https://nodemon.io/)**
 
 > Veja o arquivo [package.json](https://github.com/grochavieira/hacker-chat/blob/master/server/package.json)
 
