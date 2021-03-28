@@ -49,7 +49,7 @@ Projeto da Semana JSExpert #03 - Um chat no próprio terminal onde é possível 
 ### Exemplo do Chat
 
 <h1 align="center">
-    <img src="./.github/chat_example.png" />
+    <img src="./.github/chat-example.png" />
 </h1>
 
 ---
