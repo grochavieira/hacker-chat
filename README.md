@@ -59,6 +59,12 @@ Projeto da Semana JSExpert #03 - Um chat no próprio terminal onde é possível 
     <img src="./.github/chat-example.png" />
 </h1>
 
+### Demonstração no meu LinkedIn
+
+<a align="center" href="https://www.linkedin.com/posts/grochavieira_semanajsexpert03-nodejs-javascript-activity-6781909087983681536-CC0D">
+    <img alt="hacker-chat" src="https://img.shields.io/static/v1?label=post&message=hacker-chat&color=0072B1&style=flat&logo=linkedin">
+</a>
+
 ---
 
 ## 🚀 Como executar o projeto
